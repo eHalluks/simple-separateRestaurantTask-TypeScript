@@ -1,0 +1,22 @@
+{
+  "name": "typescript-newage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "start:dev": "tsnd index.ts"
+  },
+  "keywords": [],
+  "author": "eHalluks",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "date-fns": "^2.30.0",
+    "moment": "^2.29.4",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.0.4",
+    "uuid": "^9.0.0"
+  }
+}
